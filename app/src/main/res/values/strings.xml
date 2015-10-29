@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppClient</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="empty_list">Revisa tu conexión de Internet</string>
+
+    <!-- Row Pants -->
+    <string name="existence_pant">Existencia</string>
+    <string name="price_pant">Precio</string>
+
+
+    <!-- Details pants -->
+    <string name="buy_amount">Cantidad a comprar</string>
+    <string name="detail_accessories">Caracteristicas</string>
+    <string name="detail_colors">Colores</string>
+    <string name="detail_sizes">Tallas disponibles</string>
+    <string name="detail_price">Precio de venta</string>
+    <string name="detail_existence">Cantidad disponible</string>
+
+    <!-- TAG -->
+    <string name="tag_image">image</string>
+</resources>
