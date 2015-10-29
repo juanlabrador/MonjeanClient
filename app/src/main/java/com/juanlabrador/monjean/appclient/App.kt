@@ -16,6 +16,6 @@ class App : Application() {
         // Enable Local Datastore.
         Parse.enableLocalDatastore(this);
 
-        Parse.initialize(this, "KEY", "KEY");
+        Parse.initialize(this, getString(R.string.applicationId), getString(R.string.clientKey));
     }
 }

@@ -2,9 +2,11 @@
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
+/app/src/main/res/values/keys.xml
 .DS_Store
 /build
-/captures
+
+app-release.apk
 # Built application files
 *.apk
 *.ap_
